@@ -27,7 +27,7 @@ public class NQueens {
                 solveBacktracking(0);
             });
 
-            System.out.println("\n====================================\n");
+            System.out.println("\n=====================================\n");
 
             runExperiment("Branch and Bound", () -> {
                 queens = new int[N];
