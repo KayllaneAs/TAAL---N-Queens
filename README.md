@@ -50,7 +50,11 @@ Para iniciar digite um valor N ( ou 0 para sair):
 Em seguida, escolha o algoritmo:
 
 ```bash
-1 - Backtracking
-2 - Branch and Bound
-3 - Comparar ambos
+Escolha o algoritmo:
+1 - Estratégia Gulosa (Greedy)
+2 - Programação Dinâmica (Dynamic Programming)
+3 - Voltando Atrás (Backtracking)
+4 - Ramificar e Limitar (Branch and Bound)
+5 - Comparar TODOS
+Opção:
 ```
